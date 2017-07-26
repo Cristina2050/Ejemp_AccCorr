@@ -1,0 +1,50 @@
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.dll
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.pdb
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.xml
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.Resources.resources
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbproj.GenerateResource.Cache
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll.licenses
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.xml
+C:\Users\criss_000\Documents\Visual Studio 2012\Projects\Sistema de Gestion de Calidad\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.pdb
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.dll
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.pdb
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.xml
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.Resources.resources
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbproj.GenerateResource.Cache
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll.licenses
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.xml
+C:\Users\sistemas.desarrollo1\Dropbox\TESIS\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.Resources.resources
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbproj.GenerateResource.Cache
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll.licenses
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.2\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbprojResolveAssemblyReference.cache
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\AccionesCorrectivas.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.pdb
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\bin\Microsoft.Exchange.WebServices.Auth.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbprojResolveAssemblyReference.cache
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.Resources.resources
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.vbproj.GenerateResource.Cache
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll.licenses
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.dll
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.xml
+\\sedemi204\d$\Cristhy\TESIS\AccionesCorrtectivas\V 1.3\AccionesCorrectivas\AccionesCorrectivas\obj\Debug\AccionesCorrectivas.pdb

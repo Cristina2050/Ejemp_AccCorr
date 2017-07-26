@@ -1,0 +1,741 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AccionesCorrectivas
+</name>
+</assembly>
+<members>
+<member name="F:AccionesCorrectivas.AccionesCorrectivas.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.ASPxCallback1">
+	<summary>
+ASPxCallback1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.LoadingPanel">
+	<summary>
+LoadingPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.ASPxImage1">
+	<summary>
+ASPxImage1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lbltitulo">
+	<summary>
+lbltitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFor">
+	<summary>
+lblFor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFechaTitulo">
+	<summary>
+lblFechaTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblHoraTitulo">
+	<summary>
+lblHoraTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblHora">
+	<summary>
+lblHora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.ProcesosReportan">
+	<summary>
+ProcesosReportan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PageControlIngresos">
+	<summary>
+PageControlIngresos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.FormLayoutIngresando">
+	<summary>
+FormLayoutIngresando control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblCedula">
+	<summary>
+lblCedula control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.txtCedula">
+	<summary>
+txtCedula control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblespcio">
+	<summary>
+lblespcio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.btnBuscarSolicitante">
+	<summary>
+btnBuscarSolicitante control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblInfor">
+	<summary>
+lblInfor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblNombre">
+	<summary>
+lblNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblNombreIngresa">
+	<summary>
+lblNombreIngresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblCorreIngresa">
+	<summary>
+lblCorreIngresa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblCorreoUsuario">
+	<summary>
+lblCorreoUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.FormLayoutIngresoDatos">
+	<summary>
+FormLayoutIngresoDatos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblSolictante1">
+	<summary>
+lblSolictante1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.txtSolicitante">
+	<summary>
+txtSolicitante control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblCorreo">
+	<summary>
+lblCorreo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.txtCorreo">
+	<summary>
+txtCorreo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblCargo1">
+	<summary>
+lblCargo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.comboCargo">
+	<summary>
+comboCargo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.Cargos">
+	<summary>
+Cargos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFechaReporteTitulo1">
+	<summary>
+lblFechaReporteTitulo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFechaReporte1">
+	<summary>
+lblFechaReporte1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblfechaIdentificacion">
+	<summary>
+lblfechaIdentificacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.DateEditIdentificaicon1">
+	<summary>
+DateEditIdentificaicon1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblproceso">
+	<summary>
+lblproceso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.cmbProceso">
+	<summary>
+cmbProceso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.btnSiguiente1">
+	<summary>
+btnSiguiente1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblTitulo1">
+	<summary>
+lblTitulo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones">
+	<summary>
+lblIndicaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones1">
+	<summary>
+lblIndicaciones1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones2">
+	<summary>
+lblIndicaciones2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones3">
+	<summary>
+lblIndicaciones3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones4">
+	<summary>
+lblIndicaciones4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones5">
+	<summary>
+lblIndicaciones5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones6">
+	<summary>
+lblIndicaciones6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones7">
+	<summary>
+lblIndicaciones7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones8">
+	<summary>
+lblIndicaciones8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblIndicaciones9">
+	<summary>
+lblIndicaciones9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblTipoAccion">
+	<summary>
+lblTipoAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.cmbTipoAccion">
+	<summary>
+cmbTipoAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.TipoAccion">
+	<summary>
+TipoAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblFuenteInformacion">
+	<summary>
+lblFuenteInformacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.cmbTipoInformacion">
+	<summary>
+cmbTipoInformacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.FuenteInfor">
+	<summary>
+FuenteInfor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblSiglasAuditorias">
+	<summary>
+lblSiglasAuditorias control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.cmbSiglasAuditorias">
+	<summary>
+cmbSiglasAuditorias control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.Siglas">
+	<summary>
+Siglas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblNovedad">
+	<summary>
+lblNovedad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.cmbNovedad">
+	<summary>
+cmbNovedad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.Novedad">
+	<summary>
+Novedad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblTitulo2">
+	<summary>
+lblTitulo2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblDescripcionMejora">
+	<summary>
+lblDescripcionMejora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.MemoDescripcionMejora">
+	<summary>
+MemoDescripcionMejora control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.btnGenerarAccion">
+	<summary>
+btnGenerarAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblDetalle">
+	<summary>
+lblDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.FormLayoutEvidencia">
+	<summary>
+FormLayoutEvidencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.RadioButtonTipoIngreso">
+	<summary>
+RadioButtonTipoIngreso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.memoDetalleEvidencia">
+	<summary>
+memoDetalleEvidencia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.btnFinalizarAccion">
+	<summary>
+btnFinalizarAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PopupControleError">
+	<summary>
+PopupControleError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PopupControlContentControl7">
+	<summary>
+PopupControlContentControl7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.lblComunicado">
+	<summary>
+lblComunicado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PopupControlIngresoExitoso">
+	<summary>
+PopupControlIngresoExitoso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PopupControlContentControl1">
+	<summary>
+PopupControlContentControl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.ASPxLabel1">
+	<summary>
+ASPxLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.btnSalir">
+	<summary>
+btnSalir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.AccionesCorrectivas.PopupControlEvidenciasFisicas">
+	<summary>
+PopupControlEvidenciasFisicas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:AccionesCorrectivas.Selectt.GetIdMaxAccion(DevExpress.Web.ASPxPopupControl.ASPxPopupControl)">
+	<summary>
+ Método para obtener el valor máximo de la consulta
+ </summary>
+	<returns>Dato</returns>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.lblAllowebMimeType">
+	<summary>
+lblAllowebMimeType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.lblMaxFileSize">
+	<summary>
+lblMaxFileSize control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.UploadControlEvidencias">
+	<summary>
+UploadControlEvidencias control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.btnVerDocumentos">
+	<summary>
+btnVerDocumentos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.GridViewDetalleImagenes">
+	<summary>
+GridViewDetalleImagenes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.EvidenciasFisicas.TbDocumentos">
+	<summary>
+TbDocumentos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:AccionesCorrectivas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:AccionesCorrectivas.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:AccionesCorrectivas.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:AccionesCorrectivas.DetalleEvidencias.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.DetalleEvidencias.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.DetalleEvidencias.ImageAccionCorrectiva">
+	<summary>
+ImageAccionCorrectiva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AccionesCorrectivas.DetalleEvidencias.imageSlider">
+	<summary>
+imageSlider control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
